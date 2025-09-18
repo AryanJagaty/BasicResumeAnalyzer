@@ -2,4 +2,6 @@ streamlit
 pandas
 numpy
 pdfplumber
+python-docx
 docx2txt
+spacy
